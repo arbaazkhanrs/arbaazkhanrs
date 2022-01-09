@@ -27,7 +27,6 @@
 <a href="https://www.youtube.com/channel/UCtxPuqcLMJshMc0qFjclOZA" target = "blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="22"/></a>
 
 
-
 <br />
 
 ### Languages and Tools:
@@ -69,3 +68,4 @@
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
+[github]:
