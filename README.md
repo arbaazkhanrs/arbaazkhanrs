@@ -41,7 +41,7 @@
 <br />
 <br />
 
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaazkhanrs&show_icons=true&theme=radical)">
+<img src="https://github-readme-stats.vercel.app/api?username=arbaazkhanrs&show_icons=true&theme=algolia">
 
 
 
