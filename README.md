@@ -14,10 +14,10 @@
 
 
 ### Connect with me:
-[<img align="left" alt="jagjg | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][Arbaaz khan]
-[<img align="left" alt="holisitc_developer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
-
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href= "https://www.linkedin.com/in/arbaaz-khan-b3b160208/">
+  <img align="left" alt="Arbaaz'LinkedIn" width="22px"
+       src="https://githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">/
+</a>
 
 
 
