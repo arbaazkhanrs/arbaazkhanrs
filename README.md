@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Programming Languages 
 - 📫 How to reach me: arbaazkhanrss@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love travelling the World
--->
+- ⚡ Fun fact: I love travelling the World!!!
+
