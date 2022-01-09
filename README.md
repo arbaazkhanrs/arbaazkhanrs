@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Real Time Projects
 - 🤔 I’m looking for help with React JS
 - 💬 Ask me about Programming Languages 
-- 📫 How to reach me: **arbaazkhanrss@gmail.com**
+- 📫 How to reach me: arbaazkhanrss@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love travelling the World
 -->
