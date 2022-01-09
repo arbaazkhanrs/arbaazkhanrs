@@ -14,17 +14,13 @@
 
 
 ### Connect with me:
-<a href= "https://www.linkedin.com/in/arbaaz-khan-b3b160208/">
-  <img align="left" alt="Arbaaz'LinkedIn" width="22px"
-       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
 
-<a href= "https://twitter.com/_denizworld">
-  <img align="left" alt="Arbaaz'LinkedIn" width="22px"
-       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
-</a>
+[<img align="left" alt="Arbaazkhan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Arbaazkhan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Arbaazkhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Arbaazkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<a href="https://www.youtube.com/channel/UCtxPuqcLMJshMc0qFjclOZA" target = "blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="22"/></a>
+
 
 
 [<img align="left" alt="Arbaazkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -66,8 +62,8 @@
 </details>
 
 [website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[twitter]: https://twitter.com/_denizworld
 [instagram]: https://www.instagram.com/denizwaves/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
-[github]:
+[linkedin]: https://www.linkedin.com/in/arbaaz-khan-b3b160208/
+
+
