@@ -27,6 +27,8 @@
 <a href="https://www.youtube.com/channel/UCtxPuqcLMJshMc0qFjclOZA" target = "blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="22"/></a>
 
 
+[<img align="left" alt="Arbaazkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
 ### Languages and Tools:
@@ -65,7 +67,7 @@
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
+[instagram]: https://www.instagram.com/denizwaves/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
 [github]:
