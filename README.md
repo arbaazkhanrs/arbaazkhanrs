@@ -17,7 +17,7 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="holisitc_developer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Arbaazkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurarbaazkhanrss&theme=dark&show_icons=true)
 
 
 
