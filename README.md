@@ -24,6 +24,8 @@
        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 
+<a href="https://www.youtube.com/channel/UCtxPuqcLMJshMc0qFjclOZA" target = "blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="22"/></a>
+
 
 
 <br />
