@@ -19,6 +19,11 @@
        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 
+<a href= "https://twitter.com/_denizworld">
+  <img align="left" alt="Arbaaz'LinkedIn" width="22px"
+       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+</a>
+
 
 
 <br />
