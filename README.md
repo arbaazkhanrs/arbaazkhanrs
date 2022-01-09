@@ -16,7 +16,7 @@
 ### Connect with me:
 <a href= "https://www.linkedin.com/in/arbaaz-khan-b3b160208/">
   <img align="left" alt="Arbaaz'LinkedIn" width="22px"
-       src="https://githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">/
+       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 
 
