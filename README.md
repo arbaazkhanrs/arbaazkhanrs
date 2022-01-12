@@ -1,13 +1,11 @@
 ### Hello World, I'm Arbaazkhan 👋
 
-//## I'm a Frontend Developer and UI Designer!!
-
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my Personal Portfolio 
-- 🌱 I’m currently learning B.Tech in Computer Science Engineering 
-- 👯 I’m looking to collaborate on Real Time Projects
-- 🤔 I’m looking for help with React JS
-- 💬 Ask me about Programming Languages 
+- 🔭 I’m currently working on my Personal Portfolio.☺️
+- 🌱 I’m currently learning B.Tech in Computer Science Engineering.
+- 👯 I’m looking to collaborate on Real Time Projects.🧑‍💻
+- 🤔 I’m looking for help with React JS👨‍🚀
+- 💬 Ask me about Programming Languages 😇
 - 📫 How to reach me: **arbaazkhanrss@gmail.com** 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love travelling the World!!!
