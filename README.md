@@ -1,6 +1,6 @@
 ### Hello World, I'm Arbaazkhan 👋
 
-## I'm a Frontend Developer and UI Designer!!
+//## I'm a Frontend Developer and UI Designer!!
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Personal Portfolio 
