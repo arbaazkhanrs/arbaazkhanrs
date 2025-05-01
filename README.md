@@ -26,16 +26,10 @@
 
 ### 🌐 Connect with Me
 
-[<img align="left" alt="Website" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
-[<img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-
-<br /><br />
+[![Website](https://img.shields.io/badge/GitHub-arbaazkhanrs-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arbaazkhanrs)
+[![Twitter](https://img.shields.io/badge/Twitter-@_denizworld-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_denizworld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arbaaz--khan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbaaz-khan-b3b160208/)
+[![Instagram](https://img.shields.io/badge/Instagram-@denizwaves-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denizwaves/)
 
 ---
 
-[website]: https://github.com/arbaazkhanrs  
-[twitter]: https://twitter.com/_denizworld  
-[linkedin]: https://www.linkedin.com/in/arbaaz-khan-b3b160208/  
-[instagram]: https://www.instagram.com/denizwaves/
