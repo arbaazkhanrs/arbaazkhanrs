@@ -1,6 +1,6 @@
 # ✨👋 Hello World, I'm Arbaazkhan R Soudagar✨
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [My Portfolio ](https://arbaazkhan-r-soudagar-portfolio.netlify.app/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [My Portfolio ](https://arbaazkhanrsoudagar.netlify.app/)
 
 ### 👨‍💻 Full Stack Software Engineer | 📚 Lifelong Learner | 🌍 World Explorer
 
